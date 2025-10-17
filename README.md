@@ -1,4 +1,4 @@
-# Only Joordanian Full-Stack-Developer-opportunity- basied in jordan 
+# Only Jordanian Full-Stack-Developer-opportunity- basied in jordan 
 Full Stack Developer
 US based tech company is looking for an experienced full-stack web developer specialized in Microsoft technologies. This role is ideal if you enjoy working across the stack to deliver significant impact with a small team. You will primarily work on projects to improve and expand a custom CRM, in addition to various other projects. The ideal candidate must have a minimum of 4 years solid experience (minimal freelance or project-based experience) in web development, including extensive experience with the majority of the technologies below.
 
